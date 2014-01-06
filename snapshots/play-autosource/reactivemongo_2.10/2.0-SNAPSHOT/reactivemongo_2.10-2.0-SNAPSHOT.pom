@@ -19,17 +19,17 @@
         <dependency>
             <groupId>play-autosource</groupId>
             <artifactId>core_2.10</artifactId>
-            <version>2.0-SNAPSHOT</version>
+            <version>2.0</version>
         </dependency>
         <dependency>
             <groupId>org.reactivemongo</groupId>
             <artifactId>play2-reactivemongo_2.10</artifactId>
-            <version>0.10.0-SNAPSHOT</version>
+            <version>0.10.1</version>
         </dependency>
         <dependency>
             <groupId>org.reactivemongo</groupId>
             <artifactId>reactivemongo_2.10</artifactId>
-            <version>0.10.0-SNAPSHOT</version>
+            <version>0.10.0</version>
         </dependency>
         <dependency>
             <groupId>com.typesafe.play</groupId>
